@@ -23,7 +23,6 @@ gcc caesar_cipher.c -o caesar_cipher.exe
 - `-d`: Decriptare
 - `-k`: Cheia (int)
 - `-o`: Fișierul output
-- 
 ### Tests
 
 **Test 1**
